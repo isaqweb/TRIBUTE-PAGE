@@ -1,0 +1,47 @@
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+/*here i chose the font type of my h1,h2 and h3*/
+p, .main-section {
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 1px
+  /* i do the same here but this is for the the main section and i chose the letter spacing between the letters*/
+}
+
+body {
+  margin-top: 20px;
+  /* it means how far down from the it should be*/
+}
+
+#photo-description {
+  font-size: 12px;
+  /* the size on the image*/
+}
+
+#picture {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.title{
+text-align: center;
+/* makes so the text goes to the center*/
+}
+.video {
+  border-radius: 10px 10px 0px 0px;
+/* it defins the elements corners*/
+}
+
+body {
+  background-image: url("http://redpithemes.com/Documentation/assets/img/page_bg/page_bg_blur03.jpg")
+}
+
+.container {
+  background-color: #ebebeb;
+  border-radius: 70px;
+  margin-left: 280px;
+  margin-right:280px;
+  /* border-radius does so the space between the text and the coners margin left and rigth chose where its going to be on the screen, 200px from the rigth side and vice versa*/
+}
