@@ -41,7 +41,7 @@ body {
 .container {
   background-color: #ebebeb;
   border-radius: 70px;
-  margin-left: 280px;
-  margin-right:280px;
+  margin-left: 70px;
+  margin-right:70px;
   /* border-radius does so the space between the text and the coners margin left and rigth chose where its going to be on the screen, 200px from the rigth side and vice versa*/
 }
